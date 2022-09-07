@@ -1,0 +1,17 @@
+enable: true
+wood-types:
+  - OAK_LOG
+  - SPRUCE_LOG
+  - BIRCH_LOG
+  - JUNGLE_LOG
+  - ACACIA_LOG
+  - DARK_OAK_LOG
+use-custom-item: false
+tool-types:
+  - WOOD_AXE
+  - STONE_AXE
+  - IRON_AXE
+  - GOLD_AXE
+  - DIAMOND_AXE
+  - NETHERITE_AXE
+allow-mixed-wood: false

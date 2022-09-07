@@ -1,0 +1,5 @@
+name: BetterLumber
+author: EndergamerHUN
+version: 0.0.1
+api-version: 1.14
+main: io.github.endergamerhun.betterlumber.BetterLumber
